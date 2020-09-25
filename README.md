@@ -1,9 +1,11 @@
   ## Yaızm haatsı vaesa kusura bakmaıyn
   1. Yazılım Gereksinimleri:
 
-     * [Visual Stuido Code](https://code.visualstudio.com/download) (Kesinlikle gerekli)
+     * [Visual Studio Code](https://code.visualstudio.com/download) (Kesinlikle gerekli)
   
      * [Git](https://git-scm.com/download/win) (Önemli)
+     
+     * [Github Desktop](https://desktop.github.com/) (Yaani ama kurun ya iyidir)
 
      * [Anaconda](https://www.anaconda.com/products/individual) (Şu an için değil ama yazılım için gerekli)
 
