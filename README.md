@@ -47,31 +47,31 @@ Ben kurulumları daha önceden yaptığım için ekran biraz farklı görünebil
 
 1. Pyhton için gerekli olanlar:
     
-    * Pyhton (Python dilinde kod yazmanızı sağlayacak eklenti)
-    * Kite Autocompleter (Kod yazarken sizin kod yazma tarzınızdan öğrenip öneriler sunan yardımcı, ek kurulum gerekli)
-    * Python Extension Pack
-    * Python Test Explorer (Pythonda yazdığınız testleri çalıştırmanızı sağlaycak, eğitimlerde anlatacğım)
-    * Python Docstring Generator (Kodlarınızı açıklamanızı kolaylaştıran bir ekleti)
-    * Pylance (Hata vs gösteriyor gibi bir şey)
-    * Path Intellisens (Dosya yollarını otomatik tamamlama)
+    * `Pyhton` (Python dilinde kod yazmanızı sağlayacak eklenti)
+    * `Kite Autocompleter` (Kod yazarken sizin kod yazma tarzınızdan öğrenip öneriler sunan yardımcı, ek kurulum gerekli)
+    * `Python Extension Pack`
+    * `Python Test Explorer` (Pythonda yazdığınız testleri çalıştırmanızı sağlaycak, eğitimlerde anlatacğım)
+    * `Python Docstring Generator` (Kodlarınızı açıklamanızı kolaylaştıran bir ekleti)
+    * `Pylance` (Hata vs gösteriyor gibi bir şey)
+    * `Path Intellisens` (Dosya yollarını otomatik tamamlama)
 
 2. Kullandığımız Temalar:
     
-    * Bracket Pair Colorizer 2 (Parantezlerin karşılıklarını renklendiriyor AŞŞIRI ÖNEMLİ)
-    * Material Icon Theme (İkon teması, çok öneririm)
-    * Shades of Purple (Güzel mor-mavi arası bir tema, 2019 FRC'de kullanmıştık)
-    * Amethyst Themes (Yine güzel tema ama kullanmadık)
+    * `Bracket Pair Colorizer 2` (Parantezlerin karşılıklarını renklendiriyor AŞŞIRI ÖNEMLİ)
+    * `Material Icon Theme` (İkon teması, çok öneririm)
+    * `Shades of Purple` (Güzel mor-mavi arası bir tema, 2019 FRC'de kullanmıştık)
+    * `Amethyst Themes` (Yine güzel tema ama kullanmadık)
 
 4. Source Control (git):
 
-    * Gitlens
-    * Git Project Manager
-    * Git History
+    * `Gitlens`
+    * `Git Project Manager`
+    * `Git History`
 
 4. Live Share:
 
-    * Live Share (Uzaktan başkalarıyla kod yazmanızı sağlıyor)
-    * Live Share Extension Pack (Live share eklentisine ses filan ekliyor)
+    * `Live Share` (Uzaktan başkalarıyla kod yazmanızı sağlıyor)
+    * `Live Share Extension Pack` (Live share eklentisine ses filan ekliyor)
 
 Source Control olayı çok ayrı ona eğitimlerde gireceğim.
 
