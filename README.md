@@ -1,3 +1,7 @@
+# Ön açıklama
+Program kurulumlarından önce herkes [Github](https://github.com) üzerinden bir hesap açıp [bana](https://github.com/tunapro1234) istek göndersin.BU organizasyona eklemem için gerekli (Organizasyon, git, github ve source control olaylarını eğitimlerde anlatacağım ama araştırmanız beni cidden cezbeder.)
+
+
   ## Yaızm haatsı vaesa kusura bakmaıyn
   1. Yazılım Gereksinimleri:
 
@@ -103,6 +107,7 @@ Dosya ismini yazıp Enter tuşuna tıkladıktan sonra ekranın sağ tarafından 
 print("Hello World!", "Tuna abi", sep="\n")
 ```
 kodunu dosya içine girin ve <kbd>Ctrl</kbd> + <kbd>F5</kbd> tuşlarına basın. Altta çıkan terminalde yazdırmaya çalıştığınız şey çıktıysa kurulum problemsiz tamamlandı demektir.
+(Ödevi yapmış olanlar kodun ne işe yaradığını biliyor olmalı)
 
 ## Ee çalışmadı bu 
 Python extensionlarının kurulum esnasında yüklenmesi biraz zaman alabilir, ayrıca çoğu eklenti VS Code'u yeniden başlatmanızı gerektirir, bunu direkt olarak kapatıp açarak yapabileceğiniz gibi eklenti üzerinde yazan <kbd>Reload Required</kbd> tuşuna basarak da gerçekleştirebilirsiniz. 
@@ -131,4 +136,14 @@ Ayarlara girdikten sonra her kaydettiğinizde dosyanızın baştan düzenlenmesi
 
 Ayarını yapf'a değiştirebiliriz
 
-Bunu yaptıktan sonra herhangi bir `Python` dosyasında bir değişiklik yapıp <kbd>Ctrl</kbd> + <kbd>S</kbd> tuşlarına basarak kaydetmeye çalıştığınızda dosyanızı düzenlemeyi deneyecektir, fakat yapf kurulu olmadığı için sağ alt köşede `Yapf not Installed` benzeri bir uyarı çıkacaktır (Maalesef resmi yok) yes diyerek kurulumu yapmasını söyleyin ve formatterınız hazır olmalı
+Bunu yaptıktan sonra herhangi bir `Python` dosyasında bir değişiklik yapıp <kbd>Ctrl</kbd> + <kbd>S</kbd> tuşlarına basarak kaydetmeye çalıştığınızda dosyanızı düzenlemeyi deneyecektir, fakat yapf kurulu olmadığı için sağ alt köşede `Yapf not Installed` benzeri bir uyarı çıkacaktır (Maalesef resmi yok) yes diyerek kurulumu yapmasını söyleyin ve formatterınız hazır olmalı.
+
+# TEMALAR
+VS Code'u benim gözümde çok öne çıkaran özelliklerinden bir tanesi düzenlenebilirliği. Temaları değiştirebilme özelliği her [IDE](https://tr.wikipedia.org/wiki/T%C3%BCmle%C5%9Fik_geli%C5%9Ftirme_ortam%C4%B1)'nin sahip olduğu bir özellik değildir. 
+
+Temalar arasında geçiş yapmak için VS Code kullanırken çok kullanacağımız `Command Pallete` denen şeyi, <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> tuşlarına basarak açabilirsiniz. Burada `Preferences: Color Theme` yazıp entera basarak yüklü olan temaları görebilir ve istediğinizin üzerindeyken entera basarak temayı seçebilirsiniz. `Preferences: Color Theme` çok uzun bir isim ve bunu aklınızda tutmanız gerekmiyor `theme` yazınca da bu ayarı görebiliyorsunuz. Çoğunlukla da tam adını yazmıyoruz zaten. 
+## LIGHT TEMA KULLANMAK YASAKTIR
+Yazılımcılar arasında sebebş açıklanamayan kurallardan bir tanesi light tema kullanmama kuralıdır. Bu kural ne kadar ciddi görünmese de herhangi bir yazılımcı sizin light tema kullandığınızı görürse psikopat olduğunuza ikna olacağını garanti edebilirim.
+
+### Özür dilerim cidden çok uykum geldi ve yarın sabah erken dershanem var hüüü
+o yüzden git ve github desktop gibi diğer programların kurulumunu anlatamıyorum. :-((
