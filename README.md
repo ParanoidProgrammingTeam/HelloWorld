@@ -77,11 +77,11 @@ Source Control olayı çok ayrı ona eğitimlerde gireceğim.
 
 ## Şimdi sıra projeler için bir klasör oluşturmakta
 
-Projeleri kaydedeceğiniz yeni bir klasör oluşturun (Belgelerim içinde olmasını öneririm). Klasörün ismi `projects` ya da `projelerim` tarzı bir şey olabilir. Daha sonra bu klasörün içinde `helloWorld` adlı başka bir klasör oluşturun. Daha sonra Visual Stuido Code ekranına geri dönüp; 
+Projeleri kaydedeceğiniz yeni bir klasör oluşturun (Belgelerim içinde olmasını öneririm). Klasörün ismi `projects` ya da `projelerim` tarzı bir şey olabilir. Daha sonra bu klasörün içinde `helloWorld` adlı başka bir klasör oluşturun. Daha sonra Visual Studio Code ekranına geri dönüp; 
 
 ![File Explorer](https://i.ibb.co/XXqrNyD/Step-3.png)
 
-Menüsüne geçin ve projelerinizin bulunduğu klasörü açmak için, <kbd>Open Folder</kbd> tuşuna basın, Çıkan ekrandan projelerinizi kaydettiğiniz klasörü seçin;
+Menüsüne geçin ve projelerinizin bulunduğu klasörü açmak için, <kbd>Open Folder</kbd> tuşuna basın, çıkan ekrandan projelerinizi kaydettiğiniz klasörü seçin;
 
 ![Open Folder](https://i.ibb.co/V3TXMkD/step-4.png)
 ![Select Folder](https://i.ibb.co/FVfwYS8/step-5.png)
@@ -94,18 +94,18 @@ tuşuna tıklayın.
 
 ![File Naming](https://i.ibb.co/pXDMbr2/step-7.png)
 
-Daha sonra dosyanıza isim verin, `helloWorld.py` tarzı bir isim kullanabilrisiniz. Burada önemli olan nokta dosyaya verdiğiniz ismin uzantısının `.py` olması, uzantısını bu şekilde yaptığınzda VS Code, bu dosyanın bir python dosyası olduğunu anlıyor
+Daha sonra dosyanıza isim verin, `helloWorld.py` tarzı bir isim kullanabilirsiniz. Burada önemli olan nokta dosyaya verdiğiniz ismin uzantısının `.py` olması, uzantısını bu şekilde yaptığınzda VS Code, bu dosyanın bir python dosyası olduğunu anlıyor
 
 ![Bunu da okumazsın](https://i.ibb.co/bQLxHhW/step-8.png)
 
-Dosya ismini yazıp Enter tuşuna tıkladıktan sonra ekranın sağ tarafından açılan yer kodları yazmanızı sağlayacak yer, python'ın çalışıp çalışmyacağını test etmek için,
+Dosya ismini yazıp Enter tuşuna tıkladıktan sonra ekranın sağ tarafından açılan yer kodları yazmanızı sağlayacak yer, python'ın çalışıp çalışmayacağını test etmek için,
 ```python
 print("Hello World!", "Tuna abi", sep="\n")
 ```
 kodunu dosya içine girin ve <kbd>Ctrl</kbd> + <kbd>F5</kbd> tuşlarına basın. Altta çıkan terminalde yazdırmaya çalıştığınız şey çıktıysa kurulum problemsiz tamamlandı demektir.
 
 ## Ee çalışmadı bu 
-Python extensionlarının kurulum esnasında yüklenmesi biraz zaman alabilir, ayrıca çoğu eklenti VS Code'u yeniden başlatmanızı gerektirir, bunu direkt olarka kapatıp açarak yapabileceğiniz eklenti üzerinde yazan <kbd>Reload Required</kbd> tuşuna basarak da gerçekleştirebilirsiniz. 
+Python extensionlarının kurulum esnasında yüklenmesi biraz zaman alabilir, ayrıca çoğu eklenti VS Code'u yeniden başlatmanızı gerektirir, bunu direkt olarak kapatıp açarak yapabileceğiniz gibi eklenti üzerinde yazan <kbd>Reload Required</kbd> tuşuna basarak da gerçekleştirebilirsiniz. 
 
 #### Eğer yine çalışmazsa
 Önce internete sonra bana yazın (Önce bana yazmanız daha iyi olur)
