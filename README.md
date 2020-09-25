@@ -1,5 +1,5 @@
 # Ön açıklama
-Program kurulumlarından önce (yazılımda olan) herkes [Github](https://github.com) üzerinden bir hesap açıp [bana](https://github.com/tunapro1234) istek göndersin. Bu organizasyona eklemem için gerekli (Organizasyon, git, github ve source control olaylarını eğitimlerde anlatacağım ama araştırmanız beni cidden cezbeder.)
+Program kurulumlarından önce (yazılımda olan) herkes [Github](https://github.com) üzerinden bir hesap açıp [bana](https://github.com/tunapro1234) istek göndersin. Bu organizasyona eklemem için gerekli (Organizasyon, [git](https://www.youtube.com/watch?v=HVsySz-h9r4), [github](https://www.youtube.com/watch?v=w3jLJU7DT5E) ve [source control](https://en.wikipedia.org/wiki/Version_control) olaylarını eğitimlerde anlatacağım ama araştırmanız beni cidden cezbeder.)
 
 
 ## Yazım hatası varsa kusura bakmayın
@@ -80,7 +80,7 @@ Ben kurulumları daha önceden yaptığım için ekran biraz farklı görünebil
     * `Live Share` (Uzaktan başkalarıyla kod yazmanızı sağlıyor)
     * `Live Share Extension Pack` (Live share eklentisine ses filan ekliyor)
 
-Source Control olayı çok ayrı ona eğitimlerde gireceğim.
+[Source Control](https://en.wikipedia.org/wiki/Version_control) olayı çok ayrı ona eğitimlerde gireceğim.
 
 ## Şimdi sıra projeler için bir klasör oluşturmakta
 
@@ -120,6 +120,7 @@ Python extensionlarının kurulum esnasında yüklenmesi biraz zaman alabilir, a
 
 
 ## Ama daha bitmedi
+
 ### Şimdi sırada kodumuzu düzenleyen formatter ayarlaması var
 Öncelikle `formatter`lar kodunuzu sizin yerinize düzenleyen bazen gerçekten çok rahatsız edici olabilen küçük programlardır diyebiliriz. Ben, daha elastik bir yapısı olduğu için Google'ın ürettiği [yapf](https://github.com/google/yapf) formatterını kullanmayı seviyorum, (düzenlemesini istemediğiniz yerlerde `# yapf: disable` diyerek kapatabiliyorsunuz) o yüzden VS Code üzerinde de bunun kurulumunu anlatacağım
 
