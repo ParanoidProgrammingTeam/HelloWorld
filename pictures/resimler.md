@@ -6,3 +6,7 @@
 [step 6.png](https://i.ibb.co/HD695Yt/step-6.png)
 [step 7.png](https://i.ibb.co/pXDMbr2/step-7.png)
 [step 8.png](https://i.ibb.co/bQLxHhW/step-8.png)
+
+[formatter 1.png](https://i.ibb.co/Q6LPy4B/formatter-1.png)
+[formatter 2.png](https://i.ibb.co/LJf0fMX/formatter-2.png)
+[formatter 3.png](https://i.ibb.co/8nyf6nF/formatter-3.png)

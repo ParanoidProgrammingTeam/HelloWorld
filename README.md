@@ -112,4 +112,23 @@ Python extensionlarının kurulum esnasında yüklenmesi biraz zaman alabilir, a
 
 
 # Ama daha bitmedi
-Yazmaya devam edeceğim
+## Şimdi sırada kodumuzu düzenleyen formatter ayarlaması var
+Öncelikle `formatter`lar kodunuzu sizin yerinize düzenleyen bazen gerçekten çok rahatsız edici olabilen küçük programlardır diyebiliriz. Ben, daha elastik bir yapısı olduğu için Google'ın ürettiği [yapf](https://github.com/google/yapf) formatterını kullanmayı seviyorum, (düzenlemesini istemediğiniz yerlerde `# yapf: disable` diyerek kapatabiliyorsunuz) o yüzden VS Code üzerinde de bunun kurulumunu anlatacağım
+
+Yapmasam bir şey olur mu diye sorabilirsiniz, yapmanız size çok fazla şey katmayabilir ama yazdığınız programlar karmaşıklaşmaya başladığında cidden ne kadar önemli olduğunu anlayacaksınız.
+
+VS Code'un ayarlarına girmek için;
+
+![Settings](https://i.ibb.co/Q6LPy4B/formatter-1.png)
+
+Ayarlara girdikten sonra her kaydettiğinizde dosyanızın baştan düzenlenmesini sağlamak için `Format On Save` ayarını etkinleştirin;
+
+![Format On Save](https://i.ibb.co/LJf0fMX/formatter-2.png)
+
+Şu anda VS Code formatter olarak yapf'ı kullanmıyor. Bunu değiştirmek için;
+
+![Python Formatting Provider](https://i.ibb.co/8nyf6nF/formatter-3.png)
+
+Ayarını yapf'a değiştirebiliriz
+
+Bunu yaptıktan sonra herhangi bir `Python` dosyasında bir değişiklik yapıp <kbd>Ctrl</kbd> + <kbd>S</kbd> tuşlarına basarak kaydetmeye çalıştığınızda dosyanızı düzenlemeyi deneyecektir, fakat yapf kurulu olmadığı için sağ alt köşede `Yapf not Installed` benzeri bir uyarı çıkacaktır (Maalesef resmi yok) yes diyerek kurulumu yapmasını söyleyin ve formatterınız hazır olmalı
