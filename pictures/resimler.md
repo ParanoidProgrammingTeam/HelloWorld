@@ -1,0 +1,8 @@
+[step 1.png](https://i.ibb.co/qCtrfgm/step-1.png)
+[step 2.png](https://i.ibb.co/Fb83c54/step-2.png)
+[step 3.png](https://i.ibb.co/XXqrNyD/Step-3.png)
+[step 4.png](https://i.ibb.co/V3TXMkD/step-4.png)
+[step 5.png](https://i.ibb.co/FVfwYS8/step-5.png)
+[step 6.png](https://i.ibb.co/HD695Yt/step-6.png)
+[step 7.png](https://i.ibb.co/pXDMbr2/step-7.png)
+[step 8.png](https://i.ibb.co/bQLxHhW/step-8.png)
