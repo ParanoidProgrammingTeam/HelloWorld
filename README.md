@@ -19,7 +19,7 @@ Program kurulumlarından önce (yazılımda olan) herkes [Github](https://github
 
     * [Utorrent](https://www.utorrent.com/intl/tr/downloads/win) (Tüm crack uygulamalarını indirmek için gerekli)
 
-    * [SolidWorks](https://kickasstorrents.to/solidworks-2020-sp4-0-full-premium-crackzsoft-t4576205.html) (Crack)
+    * [SolidWorks 2020](https://kickasstorrents.to/solidworks-2020-sp4-0-full-premium-crackzsoft-t4576205.html) (Crack)
 
 3. Tasarım (PR) Gereksinimleri:
 
