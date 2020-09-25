@@ -1,34 +1,34 @@
 # Ön açıklama
-Program kurulumlarından önce herkes [Github](https://github.com) üzerinden bir hesap açıp [bana](https://github.com/tunapro1234) istek göndersin.BU organizasyona eklemem için gerekli (Organizasyon, git, github ve source control olaylarını eğitimlerde anlatacağım ama araştırmanız beni cidden cezbeder.)
+Program kurulumlarından önce (yazılımda olan) herkes [Github](https://github.com) üzerinden bir hesap açıp [bana](https://github.com/tunapro1234) istek göndersin. Bu organizasyona eklemem için gerekli (Organizasyon, git, github ve source control olaylarını eğitimlerde anlatacağım ama araştırmanız beni cidden cezbeder.)
 
 
-  ## Yaızm haatsı vaesa kusura bakmaıyn
-  1. Yazılım Gereksinimleri:
+## Yazım hatası varsa kusura bakmayın
+1. Yazılım Gereksinimleri:
 
-     * [Visual Studio Code](https://code.visualstudio.com/download) (Kesinlikle gerekli)
-  
-     * [Git](https://git-scm.com/download/win) (Önemli)
-     
-     * [Github Desktop](https://desktop.github.com/) (Yaani ama kurun ya iyidir)
+    * [Visual Studio Code](https://code.visualstudio.com/download) (Kesinlikle gerekli)
 
-     * [Anaconda](https://www.anaconda.com/products/individual) (Şu an için değil ama yazılım için gerekli)
+    * [Git](https://git-scm.com/download/win) (Önemli)
+    
+    * [Github Desktop](https://desktop.github.com/) (Yaani ama kurun ya iyidir)
 
-     * [Kite](https://www.anaconda.com/products/individual) (Zorunlu değil ama şu ana kadar insanlığın geliştirdiği en mükemmel alet)
-  
-  2. Mekanik Gereksinimleri:
+    * [Anaconda](https://www.anaconda.com/products/individual) (Şu an için değil ama yazılım için gerekli)
 
-     * [Utorrent](https://www.utorrent.com/intl/tr/downloads/win) (Tüm crack uygulamalrını indirmek için gerekli)
-  
-     * [SolidWorks](https://kickasstorrents.to/solidworks-2020-sp4-0-full-premium-crackzsoft-t4576205.html) (Crack)
-  
-  3. Tasarım (PR) Gereksinimleri:
+    * [Kite](https://www.anaconda.com/products/individual) (Zorunlu değil ama şu ana kadar insanlığın geliştirdiği en mükemmel alet)
 
-     * [Adobe Photoshop](https://kickasstorrents.to/adobe-photoshop-cc-2015-20150529-r-88-32-64bit-crack-t1191072.html) (Crack)
+2. Mekanik Gereksinimleri:
 
-     * [Adobe Illustrator](https://kickasstorrents.to/adobe-illustrator-cc-2015-19-0-0-64-bit-crack-t1191633.html) (Crack)
+    * [Utorrent](https://www.utorrent.com/intl/tr/downloads/win) (Tüm crack uygulamalarını indirmek için gerekli)
+
+    * [SolidWorks](https://kickasstorrents.to/solidworks-2020-sp4-0-full-premium-crackzsoft-t4576205.html) (Crack)
+
+3. Tasarım (PR) Gereksinimleri:
+
+    * [Adobe Photoshop](https://kickasstorrents.to/adobe-photoshop-cc-2015-20150529-r-88-32-64bit-crack-t1191072.html) (Crack)
+
+    * [Adobe Illustrator](https://kickasstorrents.to/adobe-illustrator-cc-2015-19-0-0-64-bit-crack-t1191633.html) (Crack)
 
 
-Crack uygulamaları indirmek için önce [Utorrent](https://www.utorrent.com/intl/tr/downloads/win)'i kurun. Daha sonra açılan siteden mıknatıs tuşuna basarak utorrent ile aç demeniz gerekmektedir. Utorrent indirmeyi yapacaktır
+Crack uygulamaları indirmek için önce [Utorrent](https://www.utorrent.com/intl/tr/downloads/win)'i kurun. Daha sonra açılan siteden mıknatıs tuşuna basarak utorrent ile aç demeniz gerekmektedir. Utorrent indirmeyi yapacaktır.
 
 #### Crack uygulamaları kurmak yeni başlamışlar için biraz zor olabilir ama cidden hepsini anlatacak vaktim yok ve tecrübe iyidir.
 
@@ -45,7 +45,7 @@ Açılan sayfadan `python` kelimesini aratarak gösterilen eklentileri kuralım 
 
 ![Python Extensions](https://i.ibb.co/Fb83c54/step-2.png)
 
-Ben kurulumları daha önceden yaptığım için ekran biraz farklı görünebilir sizde install yazmalı. Fotoğraftaki eklentileri kurduktan sonra aşağıda verdiğim eklentileri tek tek aratıp kurmanız gerekiyor. (Biliyorum sıkıcı özür dilerim)
+Ben kurulumları daha önceden yaptığım için ekran biraz farklı görünebilir sizde extensionların yanında `install` yazmalı. Fotoğraftaki eklentileri kurduktan sonra aşağıda verdiğim eklentileri tek tek aratıp kurmanız gerekiyor. (Biliyorum sıkıcı özür dilerim)
 
 ### Extensionlar
 
@@ -54,8 +54,8 @@ Ben kurulumları daha önceden yaptığım için ekran biraz farklı görünebil
     * `Pyhton` (Python dilinde kod yazmanızı sağlayacak eklenti)
     * `Kite Autocompleter` (Kod yazarken sizin kod yazma tarzınızdan öğrenip öneriler sunan yardımcı, ek kurulum gerekli)
     * `Python Extension Pack`
-    * `Python Test Explorer` (Pythonda yazdığınız testleri çalıştırmanızı sağlaycak, eğitimlerde anlatacğım)
-    * `Python Docstring Generator` (Kodlarınızı açıklamanızı kolaylaştıran bir ekleti)
+    * `Python Test Explorer` (Pythonda yazdığınız testleri çalıştırmanızı sağlaycak, eğitimlerde anlatacağım)
+    * `Python Docstring Generator` (Kodlarınızı açıklamanızı kolaylaştıran bir eklenti)
     * `Pylance` (Hata vs gösteriyor gibi bir şey)
     * `Path Intellisens` (Dosya yollarını otomatik tamamlama)
 
@@ -68,9 +68,10 @@ Ben kurulumları daha önceden yaptığım için ekran biraz farklı görünebil
 
 4. Source Control (git):
 
-    * `Gitlens`
+    * `Gitlens` 
     * `Git Project Manager`
     * `Git History`
+    * Yukarıdaki 3 eklentiyi kurmanızı öneririm
 
 4. Live Share:
 
@@ -98,7 +99,7 @@ tuşuna tıklayın.
 
 ![File Naming](https://i.ibb.co/pXDMbr2/step-7.png)
 
-Daha sonra dosyanıza isim verin, `helloWorld.py` tarzı bir isim kullanabilirsiniz. Burada önemli olan nokta dosyaya verdiğiniz ismin uzantısının `.py` olması, uzantısını bu şekilde yaptığınzda VS Code, bu dosyanın bir python dosyası olduğunu anlıyor
+Daha sonra dosyanıza isim verin, `helloWorld.py` tarzı bir isim kullanabilirsiniz. Burada önemli olan nokta dosyaya verdiğiniz ismin uzantısının `.py` olması, uzantısını bu şekilde yaptığınzda VS Code, bu dosyanın bir python dosyası olduğunu anlıyor.
 
 ![Bunu da okumazsın](https://i.ibb.co/bQLxHhW/step-8.png)
 
@@ -113,7 +114,7 @@ kodunu dosya içine girin ve <kbd>Ctrl</kbd> + <kbd>F5</kbd> tuşlarına basın.
 Python extensionlarının kurulum esnasında yüklenmesi biraz zaman alabilir, ayrıca çoğu eklenti VS Code'u yeniden başlatmanızı gerektirir, bunu direkt olarak kapatıp açarak yapabileceğiniz gibi eklenti üzerinde yazan <kbd>Reload Required</kbd> tuşuna basarak da gerçekleştirebilirsiniz. 
 
 #### Eğer yine çalışmazsa
-Önce internete sonra bana yazın (Önce bana yazmanız daha iyi olur)
+Önce internete sonra bana yazın (Önce bana yazmanız daha iyi olur).
 
 
 # Ama daha bitmedi
@@ -126,7 +127,7 @@ VS Code'un ayarlarına girmek için;
 
 ![Settings](https://i.ibb.co/Q6LPy4B/formatter-1.png)
 
-Ayarlara girdikten sonra her kaydettiğinizde dosyanızın baştan düzenlenmesini sağlamak için `Format On Save` ayarını etkinleştirin;
+Ayarlara girdikten sonra, dosyanızı her kaydettiğinizde dosyanızın baştan düzenlenmesini sağlamak için `Editor: Format On Save` ayarını etkinleştirin;
 
 ![Format On Save](https://i.ibb.co/LJf0fMX/formatter-2.png)
 
@@ -143,7 +144,8 @@ VS Code'u benim gözümde çok öne çıkaran özelliklerinden bir tanesi düzen
 
 Temalar arasında geçiş yapmak için VS Code kullanırken çok kullanacağımız `Command Pallete` denen şeyi, <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> tuşlarına basarak açabilirsiniz. Burada `Preferences: Color Theme` yazıp entera basarak yüklü olan temaları görebilir ve istediğinizin üzerindeyken entera basarak temayı seçebilirsiniz. `Preferences: Color Theme` çok uzun bir isim ve bunu aklınızda tutmanız gerekmiyor `theme` yazınca da bu ayarı görebiliyorsunuz. Çoğunlukla da tam adını yazmıyoruz zaten. 
 ## LIGHT TEMA KULLANMAK YASAKTIR
-Yazılımcılar arasında sebebş açıklanamayan kurallardan bir tanesi light tema kullanmama kuralıdır. Bu kural ne kadar ciddi görünmese de herhangi bir yazılımcı sizin light tema kullandığınızı görürse psikopat olduğunuza ikna olacağını garanti edebilirim.
+Yazılımcılar arasında sebebi açıklanamayan kurallardan bir tanesi light tema kullanmama kuralıdır. Bu kural ne kadar ciddi görünmese de herhangi bir yazılımcı sizin light tema kullandığınızı görürse psikopat olduğunuza ikna olacağını garanti edebilirim.
 
 ### Özür dilerim cidden çok uykum geldi ve yarın sabah erken dershanem var hüüü
 o yüzden git ve github desktop gibi diğer programların kurulumunu anlatamıyorum. :-((
+kite kurulumu basit zaten hesap açıyorsun sonrasını otomatik yapıyor neyse onu da anlatacğım yarın öğlene doğru
