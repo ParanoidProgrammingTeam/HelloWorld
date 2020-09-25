@@ -32,7 +32,9 @@ Crack uygulamaları indirmek için önce [Utorrent](https://www.utorrent.com/int
 
 #### Crack uygulamaları kurmak yeni başlamışlar için biraz zor olabilir ama cidden hepsini anlatacak vaktim yok ve tecrübe iyidir.
 
-# Visual Studio Python ve Extension kurulumları
+# Yazılım
+
+## Visual Studio Python ve Extension kurulumları
 
 #### Visual Studio Code'un kullanımını ve arayüzünü detaylı olarak eğitimlerde anlatacağım
 Kurulumların yapılması internet hızına bağlı olabileceği için önceden yapılmasını istiyorum.
@@ -110,15 +112,15 @@ print("Hello World!", "Tuna abi", sep="\n")
 kodunu dosya içine girin ve <kbd>Ctrl</kbd> + <kbd>F5</kbd> tuşlarına basın. Altta çıkan terminalde yazdırmaya çalıştığınız şey çıktıysa kurulum problemsiz tamamlandı demektir.
 (Ödevi yapmış olanlar kodun ne işe yaradığını biliyor olmalı)
 
-## Ee çalışmadı bu 
+### Ee çalışmadı bu 
 Python extensionlarının kurulum esnasında yüklenmesi biraz zaman alabilir, ayrıca çoğu eklenti VS Code'u yeniden başlatmanızı gerektirir, bunu direkt olarak kapatıp açarak yapabileceğiniz gibi eklenti üzerinde yazan <kbd>Reload Required</kbd> tuşuna basarak da gerçekleştirebilirsiniz. 
 
 #### Eğer yine çalışmazsa
 Önce internete sonra bana yazın (Önce bana yazmanız daha iyi olur).
 
 
-# Ama daha bitmedi
-## Şimdi sırada kodumuzu düzenleyen formatter ayarlaması var
+## Ama daha bitmedi
+### Şimdi sırada kodumuzu düzenleyen formatter ayarlaması var
 Öncelikle `formatter`lar kodunuzu sizin yerinize düzenleyen bazen gerçekten çok rahatsız edici olabilen küçük programlardır diyebiliriz. Ben, daha elastik bir yapısı olduğu için Google'ın ürettiği [yapf](https://github.com/google/yapf) formatterını kullanmayı seviyorum, (düzenlemesini istemediğiniz yerlerde `# yapf: disable` diyerek kapatabiliyorsunuz) o yüzden VS Code üzerinde de bunun kurulumunu anlatacağım
 
 Yapmasam bir şey olur mu diye sorabilirsiniz, yapmanız size çok fazla şey katmayabilir ama yazdığınız programlar karmaşıklaşmaya başladığında cidden ne kadar önemli olduğunu anlayacaksınız.
@@ -139,13 +141,13 @@ Ayarını yapf'a değiştirebiliriz
 
 Bunu yaptıktan sonra herhangi bir `Python` dosyasında bir değişiklik yapıp <kbd>Ctrl</kbd> + <kbd>S</kbd> tuşlarına basarak kaydetmeye çalıştığınızda dosyanızı düzenlemeyi deneyecektir, fakat yapf kurulu olmadığı için sağ alt köşede `Yapf not Installed` benzeri bir uyarı çıkacaktır (Maalesef resmi yok) yes diyerek kurulumu yapmasını söyleyin ve formatterınız hazır olmalı.
 
-# TEMALAR
+## TEMALAR
 VS Code'u benim gözümde çok öne çıkaran özelliklerinden bir tanesi düzenlenebilirliği. Temaları değiştirebilme özelliği her [IDE](https://tr.wikipedia.org/wiki/T%C3%BCmle%C5%9Fik_geli%C5%9Ftirme_ortam%C4%B1)'nin sahip olduğu bir özellik değildir. 
 
 Temalar arasında geçiş yapmak için VS Code kullanırken çok kullanacağımız `Command Pallete` denen şeyi, <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> tuşlarına basarak açabilirsiniz. Burada `Preferences: Color Theme` yazıp entera basarak yüklü olan temaları görebilir ve istediğinizin üzerindeyken entera basarak temayı seçebilirsiniz. `Preferences: Color Theme` çok uzun bir isim ve bunu aklınızda tutmanız gerekmiyor `theme` yazınca da bu ayarı görebiliyorsunuz. Çoğunlukla da tam adını yazmıyoruz zaten. 
 ## LIGHT TEMA KULLANMAK YASAKTIR
 Yazılımcılar arasında sebebi açıklanamayan kurallardan bir tanesi light tema kullanmama kuralıdır. Bu kural ne kadar ciddi görünmese de herhangi bir yazılımcı sizin light tema kullandığınızı görürse psikopat olduğunuza ikna olacağını garanti edebilirim.
 
-### Özür dilerim cidden çok uykum geldi ve yarın sabah erken dershanem var hüüü
+# Özür dilerim cidden çok uykum geldi ve yarın sabah erken dershanem var hüüü
 o yüzden git ve github desktop gibi diğer programların kurulumunu anlatamıyorum. :-((
 kite kurulumu basit zaten hesap açıyorsun sonrasını otomatik yapıyor neyse onu da anlatacğım yarın öğlene doğru
