@@ -13,7 +13,7 @@ Program kurulumlarından önce (yazılımda olan) herkes [Github](https://github
 
     * [Anaconda](https://www.anaconda.com/products/individual) (Şu an için değil ama yazılım için gerekli)
 
-    * [Kite](https://www.anaconda.com/products/individual) (Zorunlu değil ama şu ana kadar insanlığın geliştirdiği en mükemmel alet)
+    * [Kite](https://www.kite.com/download/) (Zorunlu değil ama şu ana kadar insanlığın geliştirdiği en mükemmel alet)
 
 2. Mekanik Gereksinimleri:
 
