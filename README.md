@@ -23,9 +23,9 @@ Program kurulumlarından önce (yazılımda olan) herkes [Github](https://github
 
 3. Tasarım (PR) Gereksinimleri:
 
-    * [Adobe Photoshop](https://kickasstorrents.to/adobe-photoshop-cc-2015-20150529-r-88-32-64bit-crack-t1191072.html) (Crack)
+    * [Adobe Photoshop](https://anonfiles.com/d8O7tcaap8/Adobe_Photoshop_2020_v21.2.4.323_x64_Multilingual_Pre-Activated_rar) (Crack)
 
-    * [Adobe Illustrator](https://kickasstorrents.to/adobe-illustrator-cc-2015-19-0-0-64-bit-crack-t1191633.html) (Crack)
+    * [Adobe Illustrator](https://racaty.net/7xqsiw42u7b7) (Crack)
 
 
 Crack uygulamaları indirmek için önce [Utorrent](https://www.utorrent.com/intl/tr/downloads/win)'i kurun. Daha sonra açılan siteden mıknatıs tuşuna basarak utorrent ile aç demeniz gerekmektedir. Utorrent indirmeyi yapacaktır.
